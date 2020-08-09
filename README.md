@@ -13,6 +13,6 @@ A bot connected through wifi and controlled via website used for surveillance
 - Connecting wires
 - Battery
 - Wifi Hotspot
-- Phone or PC
+- Phone or PC 
 
 ---
